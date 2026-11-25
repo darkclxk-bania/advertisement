@@ -10,6 +10,16 @@
       "url": "mailto:bania24@naver.com?subject=%EB%8C%80%EB%A6%AC%EC%84%9D%20%EC%BD%94%ED%8C%85%20%EB%AC%B8%EC%9D%98",
       "bg": "#15111e",
       "fg": "#ffd36b"
+    },
+    {
+      "id": "bania-bath",
+      "title": "바니아 물때 방지 코팅",
+      "text": "변기 · 세면대 물때 방지 · 눌러서 메일 문의",
+      "img": "img/bania-bath_banner.png",
+      "pipImg": "img/bania-bath_pip.png",
+      "url": "mailto:bania24@naver.com?subject=%EB%AC%BC%EB%95%8C%20%EB%B0%A9%EC%A7%80%20%EC%BD%94%ED%8C%85%20%EB%AC%B8%EC%9D%98",
+      "bg": "#15111e",
+      "fg": "#ffd36b"
     }
   ]
 }
