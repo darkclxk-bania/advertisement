@@ -1,6 +1,15 @@
 {
   "rotateSec": 10,
   "ads": [
-    { "title": "코인나이트", "text": "광고 자리 · 자체 계약 광고가 여기 들어갑니다", "url": "", "bg": "#15111e", "fg": "#ffd36b" }
+    {
+      "id": "bania-marble",
+      "title": "바니아 대리석 코팅",
+      "text": "주방 대리석, 얼룩 걱정 끝 · 눌러서 메일 문의",
+      "img": "img/bania-marble_banner.png",
+      "pipImg": "img/bania-marble_pip.png",
+      "url": "mailto:bania24@naver.com?subject=%EB%8C%80%EB%A6%AC%EC%84%9D%20%EC%BD%94%ED%8C%85%20%EB%AC%B8%EC%9D%98",
+      "bg": "#15111e",
+      "fg": "#ffd36b"
+    }
   ]
 }
